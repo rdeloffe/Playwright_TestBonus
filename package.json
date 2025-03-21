@@ -1,0 +1,22 @@
+{
+  "name": "playwright_testbonus",
+  "version": "1.0.0",
+  "description": "https://automationexercise.com/test_cases",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdeloffe/Playwright_TestBonus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdeloffe/Playwright_TestBonus/issues"
+  },
+  "homepage": "https://github.com/rdeloffe/Playwright_TestBonus#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.11"
+  }
+}
